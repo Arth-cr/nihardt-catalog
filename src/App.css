@@ -135,4 +135,15 @@ table {
     padding: 2rem 0;
     width: 478px;
   }
+
+  .popupImg {
+    height: 404px;
+    width: 404px;
+  }
+  .popupImg img {
+    height: 404px;
+    width: 404px;
+
+    object-fit: cover;
+  }
 }
