@@ -1,24 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Basicos from './components/Basicos';
+import Opalas from './components/Opalas';
+import PedrasNaturais from './components/PedrasNaturais';
+import SemPedras from './components/SemPedras';
+import Zirconias from './components/Zirconias';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <div className="Logo">
+        <img src="img/logo.png" alt="Nihard Piercer" />
+        <p>Nihardt | Catálogo</p>
+      </div>
+      <Basicos />
+      <Zirconias />
+      <Opalas />
+      <PedrasNaturais />
+      <SemPedras />
     </div>
   );
 }

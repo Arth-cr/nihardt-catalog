@@ -1,0 +1,58 @@
+[
+    {
+        "nome": "Labret",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "7mm, 8mm, 9mm, 10mm e 12mm",
+        "preco": 80.00,
+        "img": "labret"
+    },
+    {
+        "nome": "Barbel Reto",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "10mm, 12mm, 14mm, 16mm e 18mm",
+        "preco": 80.00,
+        "img": "barbel-reto"
+    },
+    {
+        "nome": "Barbel Curvo",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "6mm, 8mm, 10mm e 12mm",
+        "preco": 80.00,
+        "img": "barbel-curvo"
+    },
+    {
+        "nome": "Barbel Circular",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "6mm, 8mm, 10mm, 12mm e 14mm",
+        "preco": 80.00,
+        "img": "barbel-circular"
+    },
+    {
+        "nome": "Segmento Clicker",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "6mm, 8mm, 10mm, 12mm e 14mm",
+        "preco": 100.00,
+        "img": "segmento-clicker"
+    },
+    {
+        "nome": "Captive",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "8mm, 10mm e 12mm",
+        "preco": 80.00,
+        "img": "captive"
+    },
+    {
+        "nome": "G-ring",
+        "espessura": "0.8mm ou 1.0mm",
+        "tamanho": "6mm, 7mm e 8mm",
+        "preco": 90.00,
+        "img": "g-ring"
+    },
+    {
+        "nome": "L-bar (Christina)",
+        "espessura": "1.6mm",
+        "tamanho": "12mm e 14mm",
+        "preco": 110.00,
+        "img": "christina"
+    }
+]

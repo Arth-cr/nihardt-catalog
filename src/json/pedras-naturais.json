@@ -1,0 +1,50 @@
+[
+    {    "nome": "Ametista",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "3mm e 4mm",
+        "preco": 120.00,
+        "img": "ametista"
+    },
+   {    "nome": "Gota Ametista",
+        "espessura": "1.2mm",
+        "tamanho": "4mm",
+        "preco": 180.00,
+        "img": "gota-ametista"
+    },
+   {    "nome": "Ametista Prongset",
+        "espessura": "1.6mm",
+        "tamanho": "5mm",
+        "preco": 160.00,
+        "img": "ametista-prongset"
+    },
+   {    "nome": "Onix",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "3mm",
+        "preco": 120.00,
+        "img": "onix"
+    },
+   {    "nome": "Gota Onix",
+        "espessura": "1.6mm",
+        "tamanho": "4mm",
+        "preco": 180.00,
+        "img": "gota-onix"
+    },
+   {    "nome": "Quartzo rosa",
+        "espessura": "1.6mm",
+        "tamanho": "5mm",
+        "preco": 180.00,
+        "img": "quartzo-rosa"
+    },
+   {    "nome": "Jade Prongset",
+        "espessura": "1.6mm",
+        "tamanho": "5mm",
+        "preco": 180.00,
+        "img": "jade"
+    },
+   {    "nome": "Pedra da Lua",
+        "espessura": "1.6mm",
+        "tamanho": "4mm",
+        "preco": 120.00,
+        "img": "lua"
+    }
+]

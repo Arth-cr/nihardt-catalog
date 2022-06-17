@@ -1,0 +1,148 @@
+[
+    {
+        "nome": "Ponto de Luz",
+        "espessura": "1.2mm ou 1.6mm",
+        "tamanho": "2mm, 2,5mm, 3mm e 4mm ",
+        "preco": 100.00,
+        "img": "ponto-de-luz"
+    },{
+        "nome": "Trinity",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "2,5mm, 2mm e 4mm ",
+        "preco": 120.00,
+        "img": "Trinity-zirc"
+    },
+   {
+        "nome": "Gota",
+        "espessura": "1.6mm",
+        "tamanho": "4mm",
+        "preco": 170.00,
+        "img": "gota-zirc"
+    },
+   {    "nome": "Cluster 3 Cristais",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "3.5mm",
+        "preco": 140.00,
+        "img": "cluster3"
+    },
+   {    "nome": "Cluster 3 Curvo",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "3.5mm",
+        "preco": 140.00,
+        "img": "cluster3curvo"
+    }, 
+   {    "nome": "Cluster Flat",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "5mm",
+        "preco": 150.00,
+        "img": "cluster-flat"   
+     },
+    {   "nome": "Cluster Prongset",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "5mm",
+        "preco": 420.00,
+        "img": "cluster-prongset-zirc"
+    },
+   {    "nome": "Cluster Baguete",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "3.5mm",
+        "preco": 370.00,
+        "img": "cluster-baguete"
+    }, 
+   {    "nome": "Cluster Arco",
+        "espessura": "1.2mm",
+        "tamanho": "5mm",
+        "preco": 320.00,
+        "img": "cluster-arco"
+    }, 
+   {    "nome": "Cluster Marquise",
+        "espessura": "1.2mm",
+        "tamanho": "5mm",
+        "preco": 380.00,
+        "img": "cluster-marquise"
+    },
+   {    "nome": "Cravejado Lateral",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "8mm, 10mm e 12mm",
+        "preco": 220.00,
+        "img": "cravejado-lateral"
+    },
+   {    "nome": "Cravejado Frontal",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 220.00,
+        "img": "cravejado-frontal"
+    }, 
+   {    "nome": "Cravejado Cruz",
+        "espessura": "1.6mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 320.00,
+        "img": "cravejado-cruz"
+    }, 
+   {    "nome": "Pedras Internas",
+        "espessura": "1.6mm",
+        "tamanho": "10mm",
+        "preco": 140.00,
+        "img": "zirc-int"
+    },
+   {    "nome": "Pedras Externas",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 140.00,
+        "img": "zirc-ext"
+    },
+   {    "nome": "Frontal Duplo",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 270.00,
+        "img": "frontal-duplo"
+    },
+   {    "nome": "Captive Zircônia",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 80.00,
+        "img": "Captive-zirc"
+    },
+   {    "nome": "Lateral Duplo",
+        "espessura": "1.2mm",
+        "tamanho": "10mm",
+        "preco": 360.00,
+        "img": "lateral-duplo"
+    },
+   {    "nome": "Arco Iris Lateral",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 350.00,
+        "img": "arco-iris-lateral"
+    },
+   {    "nome": "Arco Iris Frontal",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 270.00,
+        "img": "arco-iris-frontal"
+    },
+   {    "nome": "Duplo Aurora",
+        "espessura": "1.2mm",
+        "tamanho": "8mm",
+        "preco": 300.00,
+        "img": "duplo-aurora"
+    },
+   {    "nome": "Captive Cluster",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 110.00,
+        "img": "captive-cluster"
+    },
+   {    "nome": "Navel Flat",
+        "espessura": "1.6mm",
+        "tamanho": "11mm",
+        "preco": 130.00,
+        "img": "Navel-zirc"
+    },
+   {    "nome": "Navel Prongset",
+        "espessura": "1.6mm",
+        "tamanho": "11mm",
+        "preco": 170.00,
+        "img": "Navel-Prong-zirc"
+    }
+]

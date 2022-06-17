@@ -1,0 +1,62 @@
+[
+    {    "nome": "Flat",
+        "espessura": "1.2mm e 16mm",
+        "tamanho": "3mm e 4mm",
+        "preco": 110.00,
+        "img": "opala"
+    },
+  {    "nome": "Gota Branca",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "4mm",
+        "preco": 160.00,
+        "img": "gota-branca"
+    },
+   {    "nome": "Cluster Marquise",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "5mm",
+        "preco": 320.00,
+        "img": "marquise-opala"
+    },
+   {    "nome": "Opala Prongset",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "5mm",
+        "preco": 180.00,
+        "img": "opala-prongset"
+    },
+   {    "nome": "Flor",
+        "espessura": "1.6mm",
+        "tamanho": "4mm",
+        "preco": 180.00,
+        "img": "flor"
+    },
+   {    "nome": "Patinha",
+        "espessura": "1.2mm e 1.6mm",
+        "tamanho": "4mm",
+        "preco": 175.00,
+        "img": "Patinha"
+    }, 
+   {    "nome": "Cluster Prongset",
+        "espessura": "1.2mm",
+        "tamanho": "5mm",
+        "preco": 520.00,
+        "img": "cluster-opala"
+    },
+   {    "nome": "Cravejado Lateral",
+        "espessura": "1.2mm",
+        "tamanho": "8mm",
+        "preco": 270.00,
+        "img": "cravejado-opala"
+    },
+   {    "nome": "Navel Flat",
+        "espessura": "1.6mm",
+        "tamanho": "11mm",
+        "preco": 200.00,
+        "img": "navel-flat"
+    },
+   {    "nome": "Opalita Tyndall",
+        "espessura": "1.6mm",
+        "tamanho": "11mm",
+        "preco": 160.00,
+        "img": "opalita-tyndall"
+    }
+]
