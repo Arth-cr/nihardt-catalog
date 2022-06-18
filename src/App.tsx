@@ -1,6 +1,7 @@
 import './App.css';
 import Basicos from './components/Basicos';
 import Opalas from './components/Opalas';
+import PedrasCorrentes from './components/PedrasCorrentes';
 import PedrasNaturais from './components/PedrasNaturais';
 import SemPedras from './components/SemPedras';
 import Zirconias from './components/Zirconias';
@@ -17,6 +18,7 @@ function App() {
       <Opalas />
       <PedrasNaturais />
       <SemPedras />
+      <PedrasCorrentes />
     </div>
   );
 }

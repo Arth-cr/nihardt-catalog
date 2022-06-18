@@ -144,5 +144,11 @@
         "tamanho": "11mm",
         "preco": 170.00,
         "img": "Navel-Prong-zirc"
-    }
-]
+    },
+    { "nome": "Solaris",
+        "espessura": "1.6mm",
+    "tamanho": "4mm",
+    "preco": 220.00,
+    "img": "solaris"
+    }  
+    ]  

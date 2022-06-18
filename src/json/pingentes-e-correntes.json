@@ -1,0 +1,28 @@
+[
+
+
+{    "nome": "Pingente Cruz",
+     "tamanho": "4mm",
+     "comprimento": "-",
+     "preco": 70.00,
+     "img": "pingente-cruz"
+ }, 
+{    "nome": "Pingente Zircônia",
+     "tamanho": "4mm",
+     "comprimento": "-",
+     "preco": 80.00,
+     "img": "pingente-zirc"
+ },
+ {    "nome": "Corrente Básica",
+     "tamanho": "-",
+     "comprimento": "3mm a 12mm",
+     "preco": 40.00,
+     "img": "pingente-cruz"
+ }, 
+{    "nome": "Corrente Zircônia",
+     "tamanho": "4mm",
+     "comprimento": "11cm",
+     "preco": 90.00,
+     "img": "pingente-cruz"
+ }
+]

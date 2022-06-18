@@ -1,29 +1,29 @@
 import { useState } from 'react';
 import '../App.css';
-import SemPedra from '../json/sem-pedra.json'
+import PedrasCorrente from '../json/pingentes-e-correntes.json'
 
 
 
-function SemPedras() {
+function PedrasCorrentes() {
     const [active, setActive] = useState("")
   return (
     <table>
       
-        <caption className="tableRow title sem-pedras">
-          Sem Pedras
+        <caption className="tableRow title pedras-e-correntes">
+          Pedras e Correntes
         </caption>
 
       <tr className="topicos">
         <td></td>
         <td>Joia</td>
-        <td>Espessura</td>
-        <td>Tamanho (da haste)</td>
+        <td>Comprimento</td>
+        <td>Tamanho</td>
         <td>Preço</td>
       </tr>
       
 
       {
-        SemPedra.map((item, i) => {
+        PedrasCorrente.map((item, i) => {
 
           return (
             <tr className="tableRow" key={item.nome}>
@@ -41,7 +41,7 @@ function SemPedras() {
                     }
               </td>
               <td>{item.nome}</td>
-              <td>{item.espessura}</td>
+              <td>{item.comprimento}</td>
               <td>{item.tamanho}</td>
               <td>{item.preco.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'})}</td>
           </tr>
@@ -52,4 +52,4 @@ function SemPedras() {
   );
 }
 
-export default SemPedras;
+export default PedrasCorrentes;

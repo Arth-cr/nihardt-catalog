@@ -1,0 +1,74 @@
+[
+    {    "nome": "Lua",
+        "espessura": "1.6mm",
+        "tamanho": "3mm",
+        "preco": 130.00,
+        "img": "lua"
+    },
+   {    "nome": "Estrela",
+        "espessura": "1.6mm",
+        "tamanho": "3mm",
+        "preco": 130.00,
+        "img": "estrela"
+    },
+   {    "nome": "coração",
+        "espessura": "1.2mm",
+        "tamanho": "3mm",
+        "preco": 130.00,
+        "img": "coração"
+    },
+   {    "nome": "Cruz",
+        "espessura": "1.6mm",
+        "tamanho": "4mm",
+        "preco": 130.00,
+        "img": "cruz"
+    },
+   {    "nome": "Concha",
+        "espessura": "1.6mm",
+        "tamanho": "5mm",
+        "preco": 130.00,
+        "img": "concha"
+    },
+   {    "nome": "Martelado",
+        "espessura": "1.6mm",
+        "tamanho": "3mm e 4mm",
+        "preco": 130.00,
+        "img": "martelado"
+    },
+   {    "nome": "Raio",
+        "espessura": "1.2mm",
+        "tamanho": "4mm",
+        "preco": 130.00,
+        "img": "raio"
+    },
+   {    "nome": "Cobra",
+        "espessura": "1.2mm",
+        "tamanho": "6mm",
+        "preco": 180.00,
+        "img": "Cobra"
+    },  
+   {    "nome": "Segmento Ornamental",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 140.00,
+        "img": "bolinhas"
+    },  
+   {    "nome": "Segmento Triplo",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 140.00,
+        "img": "triplo"
+    },  
+   {    "nome": "Segmento Spike",
+        "espessura": "1.2mm",
+        "tamanho": "8mm e 10mm",
+        "preco": 140.00,
+        "img": "spike"
+    },
+   {    "nome": "Segmento Talhado",
+        "espessura": "1.2mm",
+        "tamanho": "8mm",
+        "preco": 140.00,
+        "img": "talhado"
+    }
+]
